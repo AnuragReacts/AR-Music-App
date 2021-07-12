@@ -12,7 +12,8 @@ Detection of markers:
 
 
 ## How it works?
-User gets to choose which instruments or vocals of a song to listen to and which one to ignore simply by showing the corresponding markers in the camera. 
-Images of corresponding instruments on markers are digitally superimposed using marker-based AR.  
-Only the instruments(markers) detected by the camera will be played, and rest will be muted. All 4 markers combined makes the whole song.
+* User gets to choose which instruments or vocals of a song to listen to and which one to ignore simply by showing the corresponding markers in the camera. 
+* Images of corresponding instruments on markers are digitally superimposed using marker-based AR.  
+* Only the instruments(markers) detected by the camera will be played, and rest will be muted. 
+* All four markers combined makes up the whole song.
 
