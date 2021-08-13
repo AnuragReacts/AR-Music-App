@@ -19,3 +19,7 @@ Detection of markers:
 
 #### [_Play here >>_](https://anuragreacts.github.io/AR-Music-App/) 
 
+### Contributors :
+* Abhishek Sharma [181112068]
+* Anurag Phulware [181112044]
+
